@@ -1,1 +1,1 @@
-# mig-api
+# node-rest-api
